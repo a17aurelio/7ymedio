@@ -1,3 +1,2 @@
-# mio
-prueba
-esta es copia de la rama principal
+# 7 y media
+Tarea del siete y medio en java
